@@ -1,0 +1,11 @@
+Anqi Liu, Mark Paddrik, Steve Y. Yang, Xingjia Zhang,
+Interbank contagion: An agent-based model approach to endogenously formed networks,
+Journal of Banking & Finance,
+Volume 112,
+2020,
+105191,
+ISSN 0378-4266,
+https://doi.org/10.1016/j.jbankfin.2017.08.008.
+(https://www.sciencedirect.com/science/article/pii/S0378426617301942)
+Abstract: The potential impact of interconnected financial institutions on interbank financial systems is a financial stability concern for central banks and regulators. In examining how financial shocks propagate through contagion effects, we argue that endogenous individual bank choices are necessary to properly consider how losses develop as the interbank lending network evolves. We present an agent-based model to endogenously reconstruct interbank networks based on 6600 banks’ decision rules and behaviors reflected in quarterly balance sheets. We compare the results of our model to the results of a traditional stationary network framework for contagion. The model formulation reproduces dynamics similar to those of the 2007–09 financial crisis and shows how bank losses and failures arise from network contagion and lending market illiquidity. When calibrated to post-crisis data from 2011 to 2014, the model shows the U.S. banking system has reduced its likelihood of bank failures through network contagion and illiquidity, given a similar stress scenario.
+Keywords: Interbank lending market; Agent-based simulation; Contagion; Financial networks; Financial crisis
